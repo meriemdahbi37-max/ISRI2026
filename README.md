@@ -2,16 +2,16 @@
 
 ## Git log avant le squash
 
-![Git log avant le squash](avant squash.png)
+![Git log avant le squash](avant%20squash.png)
 
-![Git log après le squash](apres squash.png)
+![Git log après le squash](apres%20squash.png)
 
 
 ## Graphe Git final
 
 Commande utilisée : git log --graph --oneline --all
 
-![Graphe Git final ](git log final.png)
+![Graphe Git final ](git%20log%20final.png)
 
 
 
